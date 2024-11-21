@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23FF9AA8&icon=github.svg&icon_color=%23FFFFFF&title=+TODAY+%2F+TOTAL&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskdigrace04&count_bg=%23000000&title_bg=%23FF96A9&icon=github.svg&icon_color=%23FFFFFF&title=+TODAY+%2F+TOTAL&edge_flat=true)](https://hits.seeyoufarm.com)
 <!--
 **skdigrace04/skdigrace04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
