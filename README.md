@@ -38,8 +38,8 @@
   <img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white>
   <img src=https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=white&color=black&labelColor=green>
   <br>
-  <img src=https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20photoshop&logoColor=white>
   <img src=https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white>
+  <img src=https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20photoshop&logoColor=white>
   <img src=https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=Adobe%20illustrator&logoColor=white>
   <br>
   <br>
@@ -49,8 +49,8 @@
   <br>
   <br>
   <img src=https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white>
-  <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white>
   <img src=https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=white>
+  <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white>
   <br>
   <br>
   <br>
