@@ -8,6 +8,11 @@
 - 📚‎ Tech Stackㅤ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+  - ☎️ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto: skdigrace1004@gmail.com)
+    ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)([https://line.me/ti/p/EKirDgp30A])
+    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)]([https://www.youtube.com/@%EC%97%B0-c8l])
 
 ![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdigrace04&show_icons=true&bg_color=DEG,ffe9d5,ffcdca&title_color=ff849c&text_color=ffffff&icon_color=ff849c&border_color=ff849c)
 <!--
