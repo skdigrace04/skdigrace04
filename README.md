@@ -5,15 +5,21 @@
 - 🏫 Chung-Ang University, College of Art & Technology 24th
 - 💁‍♀️ 고시연 / 2004.11.09 / skdigrace1004@naver.com
   
-- 📚‎ Tech Stackㅤ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+- ☎️ㅤ[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdigrace1004@gmail.com)](mailto:skdigrace1004@gmail.com)
+    [![Line](https://img.shields.io/badge/Line-00C300?style=flat-style&logo=line&logoColor=white&link=https://line.me/ti/p/EKirDgp30A)](https://line.me/ti/p/EKirDgp30A)
+    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
+
+- 📚‎ Tech Stack 📚ㅤ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
 
- - ☎️ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdigrace1004@gmail.com)](mailto:skdigrace1004@gmail.com)
-    [![Line](https://img.shields.io/badge/Line-00C300?style=flat-style&logo=line&logoColor=white&link=https://line.me/ti/p/EKirDgp30A)](https://line.me/ti/p/EKirDgp30A)
-    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
-
+- 🖱️ Tools 🖱️ㅤ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  
 ![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdigrace04&show_icons=true&bg_color=DEG,ffe9d5,ffcdca&title_color=ff849c&text_color=ffffff&icon_color=ff849c&border_color=ff849c)
 <!--
 **skdigrace04/skdigrace04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
