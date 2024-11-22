@@ -4,7 +4,7 @@
 
 ㅤ
 - 🏫 Chung-Ang University, College of Art & Technology 24th
-- 💁‍♀️ 고시연 / 2004.11.09 / skdigrace1004@naver.com
+- 💁‍♀️ 고시연 / 2004.11.09
 - 📋 Favorite project is to make a webpage with html and css.
   
 - ☎️ Contact me if you want to work together.ㅤ
