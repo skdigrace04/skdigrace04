@@ -9,11 +9,14 @@
     [![Line](https://img.shields.io/badge/Line-00C300?style=flat-style&logo=line&logoColor=white&link=https://line.me/ti/p/EKirDgp30A)](https://line.me/ti/p/EKirDgp30A)
     [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
 
-- 📚‎ Tech Stack 📚ㅤ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+<div align = center>
+📚‎ Tech Stack 📚
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
   ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+</div>
 
 - 🖱️ Tools 🖱️ㅤ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
