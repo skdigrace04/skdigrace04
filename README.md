@@ -10,6 +10,8 @@
     [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
 
 <div align = center>
+  <br>
+  <br>
   📚‎ Tech Stack 📚
   <br>
   <br>
@@ -18,15 +20,24 @@
   <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white>
   <img src=https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white>
   <img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white>
+  <br>
+  <br>
+  <br>
+  <br>
+  🖱️ Tools 🖱️
+  <br>
+  <br>
+  <img src=https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white>
+  <img src=https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white>
+  <img src=https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white>
+  <img src=https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=white&color=black&labelColor=green>
+  <br>
+  <img src=https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=Adobe%20illustrator&logoColor=white>
+  <img src=https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20photoshop&logoColor=white>
+  <img src=https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white>
 </div>
 
-- 🖱️ Tools 🖱️ㅤ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat-square&logo=pycharm&logoColor=white&color=black&labelColor=green)
-  ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20illustrator-%23FF9A00.svg?style=flat-square&logo=Adobe%20illustrator&logoColor=white)
-  ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=Adobe%20photoshop&logoColor=white)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
+  
 
   
 ![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdigrace04&show_icons=true&bg_color=DEG,ffe9d5,ffcdca&title_color=ff849c&text_color=ffffff&icon_color=ff849c&border_color=ff849c)
