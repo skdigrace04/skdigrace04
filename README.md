@@ -11,11 +11,11 @@
 
 <div align = center>
 📚‎ Tech Stack 📚
-  [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)]
-  [![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)]
-  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)]
-  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)]
-  [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)]
+  <img src=https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white>
+  <img src=https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)>
+  <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white>
+  <img src=https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white>
+  <img src=https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white>
 </div>
 
 - 🖱️ Tools 🖱️ㅤ ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white)
