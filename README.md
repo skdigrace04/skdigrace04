@@ -3,12 +3,13 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskdigrace04&count_bg=%23000000&title_bg=%23FFAEB3&icon=github.svg&icon_color=%23FFFFFF&title=+TODAY+%2F+TOTAL&edge_flat=true)](https://hits.seeyoufarm.com)
 
 - 🏫 중앙대학교 예술공학부 24학번
-- 💁‍♀️ 고시연 / 2004.11.09
+- 💁‍♀️ 고시연 / 2004.11.09 / skdigrace1004@naver.com
   
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdigrace04&show_icons=true&bg_color=00000000&bg_color=DEG,feb0ab,f5eded)
 <!--
 **skdigrace04/skdigrace04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
