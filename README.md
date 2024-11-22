@@ -4,12 +4,13 @@
 
 - 🏫 Chung-Ang University, College of Art & Technology 24th
 - 💁‍♀️ 고시연 / 2004.11.09 / skdigrace1004@naver.com
-- 📋 Favorite project is to make a webpage with html and css
+- 📋 Favorite project is to make a webpage with html and css.
   
-- ☎️ㅤ[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdigrace1004@gmail.com)](mailto:skdigrace1004@gmail.com)
-    [![Line](https://img.shields.io/badge/Line-00C300?style=flat-style&logo=line&logoColor=white&link=https://line.me/ti/p/EKirDgp30A)](https://line.me/ti/p/EKirDgp30A)
-    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
-  Contact me if you want to work together.
+- ☎️ Contact me if you want to work together.ㅤ
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdigrace1004@gmail.com)](mailto:skdigrace1004@gmail.com)
+  [![Line](https://img.shields.io/badge/Line-00C300?style=flat-style&logo=line&logoColor=white&link=https://line.me/ti/p/EKirDgp30A)](https://line.me/ti/p/EKirDgp30A)
+  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
+  
 
 <div align = center>
   <br>
