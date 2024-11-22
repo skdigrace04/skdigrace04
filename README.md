@@ -10,7 +10,8 @@
     [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@%EC%97%B0-c8l)](https://www.youtube.com/@%EC%97%B0-c8l)
 
 <div align = center>
-📚‎ Tech Stack 📚
+  📚‎ Tech Stack 📚
+  <br>
   <img src=https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white>
   <img src=https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)>
   <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white>
