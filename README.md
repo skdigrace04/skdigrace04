@@ -6,6 +6,7 @@
 - 🏫 Chung-Ang University, College of Art & Technology 24th
 - 💁‍♀️ 고시연 / 2004.11.09 / skdigrace1004@gmail.com
 - 📋 Favorite project is to make a webpage with html and css.
+- 🚩 Want to be a web designer.
   
 - ☎️ Contact me if you want to work together.ㅤ
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skdigrace1004@gmail.com)](mailto:skdigrace1004@gmail.com)
