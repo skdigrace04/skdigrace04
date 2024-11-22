@@ -2,6 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fskdigrace04&count_bg=%23000000&title_bg=%23FFBAB6&icon=github.svg&icon_color=%23FFFFFF&title=+TODAY+%2F+TOTAL&edge_flat=true)](https://hits.seeyoufarm.com)
 
+ㅤ
 - 🏫 Chung-Ang University, College of Art & Technology 24th
 - 💁‍♀️ 고시연 / 2004.11.09 / skdigrace1004@naver.com
 - 📋 Favorite project is to make a webpage with html and css.
