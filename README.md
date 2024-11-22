@@ -25,7 +25,7 @@
 
   
 ![Sion's GitHub stats](https://github-readme-stats.vercel.app/api?username=skdigrace04&show_icons=true&bg_color=DEG,ffe9d5,ffcdca&title_color=ff849c&text_color=ffffff&icon_color=ff849c&border_color=ff849c)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skdigrace04&layout=compact)
 <!--
 **skdigrace04/skdigrace04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
